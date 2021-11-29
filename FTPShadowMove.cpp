@@ -1,4 +1,5 @@
 // PoC of ShadowMove Gateway by Juan Manuel Fernández (@TheXC3LL) 
+// Tiny editions by Rita
 #define _CRT_SECURE_NO_WARNINGS
 #define _WINSOCK_DEPRECATED_NO_WARNINGS
 #include <winsock2.h>
